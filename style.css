@@ -16,7 +16,7 @@ header{
 .input-texto{
     display: inline-block;
 	vertical-align: top;
-    background: ;
+ 
     width: 93%;
     height: 500px;
     border: none;
@@ -61,7 +61,7 @@ header{
     display: inline-block;
 	vertical-align: top;
     width: 18%;
-    background:;
+   
     margin: 2% 0 12% 8%;
     
 }
