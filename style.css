@@ -1,6 +1,6 @@
 body{
-    background:;
-   /* background-color: #E5E5E5;*/
+ 
+    background-color: #E5E5E5;
 }
 header{
     margin: 3%;
@@ -10,7 +10,7 @@ header{
 	vertical-align: top;
     width: 44%;
    height: 620px;
-    background:;
+  
     margin: 4% 5% 1% 12%;
 }
 .input-texto{
@@ -78,7 +78,7 @@ header{
 	color: #0A3871;
 	margin: 0 0 12% 0;
     padding: 10% 3% 0 8%;
-	/*box-shadow: 10px 10px  30px 20px #fff;*/
+	box-shadow: 10px 10px  30px 20px #fff;
 	border-radius: 16px;
 	border: none;
     outline: none;
